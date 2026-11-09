@@ -2,3 +2,6 @@ title: Manoa Notes Exchange
 description: An open-access, UHM-focused platform for sharing course study materials for free.
 theme: jekyll-theme-cayman
 show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/bowfolios/bowfolios
